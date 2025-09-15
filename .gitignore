@@ -1,0 +1,42 @@
+
+###> symfony/framework-bundle ###
+/.env
+/.env.test
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
+.composer.lock
+/.idea/.gitignore
+/.idea/back-rutix.iml
+/.idea/codeception.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/phpspec.xml
+/.idea/phpunit.xml
+/.idea/symfony2.xml
+/.idea/vcs.xml
+.idea/*
+/config/packages/web_profiler.yaml
+/config/routes/web_profiler.yaml
+/composer.lock
+
+/docker_command_errors.log
