@@ -4,6 +4,12 @@
 
 API développée avec Symfony pour une application mobile permettant de créer des routines de vie adaptées au TDAH, basées sur un arbre décisionnel.
 
+## 📚 Documentation API
+
+Endpoints détaillés : [Voir la documentation Notion](https://github.com/Onyx2089/Rutix-BackEnd/blob/main/Endpoints.md)
+
+Collection Postman : [Accéder à la collection](https://github.com/Onyx2089/Rutix-BackEnd/blob/main/API%20-%20RUTIX%20(new).postman_collection.json)
+
 ## 🛠️ Versions utilisées
 
 * **Symfony CLI** : 5.9.1
