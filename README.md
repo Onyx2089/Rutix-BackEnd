@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Ce projet est une API construite avec le framework **Symfony**. Elle fournit plusieurs endpoints pour la gestion des utilisateurs (enregistrement, authentification, etc.).
+API développée avec Symfony pour une application mobile permettant de créer des routines de vie adaptées au TDAH, basées sur un arbre décisionnel.
 
 ## 🛠️ Versions utilisées
 
